@@ -1,1 +1,1 @@
-# MOOD-X-KAI
+print("HELLO WORLD")
